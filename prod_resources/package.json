@@ -1,0 +1,9 @@
+{
+  "name": "electron_markdown",
+  "productMame": "Electron Markdown",
+  "version": "1.0.0",
+  "description": "Simple markdown editor",
+  "main": "js/main/index.js",
+  "author": "K",
+  "license": "MIT"
+}
